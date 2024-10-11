@@ -52,7 +52,7 @@ Common issues might include network connection problems or incorrect configurati
 
 Contributors names and contact info:
 
-- Kayo
+- Kayomi
 
 ### License
 
